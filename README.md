@@ -7,6 +7,7 @@ The most original contribution of this project is the Roman Urdu normalization l
 Datasets:
 
 SQuAD v2(https://huggingface.co/datasets/rajpurkar/squad_v2) — Stanford Question Answering Dataset published in 2018. Contains Wikipedia article paragraphs in English with extractive question-answer pairs. Previous work achieved F1 ~93% using BERT, RoBERTa, and GPT-3.
+
 UQA(https://huggingface.co/datasets/uqa/UQA ) — Urdu Question Answering dataset published at LREC-COLING 2024. Created by translating SQuAD2.0 into Urdu using the EATS technique. All prior work uses transformer models (XLM-RoBERTa F1: 85.99, mT5). This project establishes the first classical IR baseline on UQA.
 
 Steps to run the code:
